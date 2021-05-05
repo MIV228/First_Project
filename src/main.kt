@@ -135,3 +135,4 @@ fun fun5() {
         println("Что-то пошло не так.")
     }
 }
+//ffgfsgdsgs
